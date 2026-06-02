@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tobon Transport</string>
+    <string name="clientes">Clients</string>
+    <string name="empleados">Employees</string>
+    <string name="vehiculos">Vehicles</string>
+    <string name="pedidos">Orders</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="guardar">Save</string>
+    <string name="eliminar">Delete</string>
+    <string name="notificacion_titulo">Tobon Transport</string>
+    <string name="notificacion_mensaje">You have a new assigned order</string>
+    <string name="dashboard_title">Tobon Transport</string>
+    <string name="probar_notificacion">Test Notification</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Transportes Tobón</string>
+
+    <string name="clientes">Clientes</string>
+    <string name="empleados">Empleados</string>
+    <string name="vehiculos">Vehículos</string>
+    <string name="pedidos">Pedidos</string>
+
+    <string name="dashboard">Panel Principal</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <string name="notificacion_titulo">Transportes Tobón</string>
+    <string name="notificacion_mensaje">Tienes un nuevo pedido asignado</string>
+
+
+
+    <string name="dashboard_title">Transportes Tobón</string>
+
+    <string name="probar_notificacion">Probar Notificación</string>
+
+</resources>

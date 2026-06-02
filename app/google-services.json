@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329328715204",
+    "project_id": "transportestobonapp",
+    "storage_bucket": "transportestobonapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329328715204:android:97289683d4047dc607f091",
+        "android_client_info": {
+          "package_name": "com.cesar.transportestobon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAMd5dCT-mr04xR9WteH55LrFbEMNg2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329328715204:android:11527df010cf66f507f091",
+        "android_client_info": {
+          "package_name": "com.cesar.transportestobonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAMd5dCT-mr04xR9WteH55LrFbEMNg2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

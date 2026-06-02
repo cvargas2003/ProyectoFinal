@@ -44,4 +44,16 @@ class PedidoViewModel : ViewModel() {
             onError
         )
     }
+    fun actualizarPedido(
+        pedido: Pedido,
+        onSuccess: () -> Unit,
+        onError: (String) -> Unit
+    ) {
+
+        repository.actualizarPedido(
+            pedido,
+            onSuccess,
+            onError
+        )
+    }
 }

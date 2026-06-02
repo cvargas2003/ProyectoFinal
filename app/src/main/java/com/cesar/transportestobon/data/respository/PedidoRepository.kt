@@ -60,4 +60,21 @@ class PedidoRepository {
                 onError(it.message ?: "Error")
             }
     }
+    fun actualizarPedido(
+        pedido: Pedido,
+        onSuccess: () -> Unit,
+        onError: (String) -> Unit
+    ) {
+
+        db.collection("pedidos")
+            .document(pedido.id)
+            .set(pedido)
+            .addOnSuccessListener {
+                onSuccess()
+            }
+            .addOnFailureListener {
+                onError(it.message ?: "Error")
+            }
+    }
+
 }

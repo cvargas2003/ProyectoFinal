@@ -7,7 +7,6 @@
     <string name="pedidos">Pedidos</string>
 
     <string name="dashboard">Panel Principal</string>
-
     <string name="guardar">Guardar</string>
     <string name="eliminar">Eliminar</string>
 
@@ -19,5 +18,6 @@
     <string name="dashboard_title">Transportes Tobón</string>
 
     <string name="probar_notificacion">Probar Notificación</string>
+    <string name="Documento">Documento</string>
 
 </resources>

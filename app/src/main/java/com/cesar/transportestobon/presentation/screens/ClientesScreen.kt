@@ -12,6 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.cesar.transportestobon.R
 import com.cesar.transportestobon.data.model.Cliente
 import com.cesar.transportestobon.viewmodel.ClienteViewModel
 
@@ -78,7 +79,7 @@ fun ClientesScreen(
                 OutlinedTextField(
                     value = nombre,
                     onValueChange = { nombre = it },
-                    label = { Text("Nombre *") },
+                    label = {R.string.clientes},
                     leadingIcon = { Icon(Icons.Default.Person, contentDescription = null) },
                     modifier = Modifier.fillMaxWidth(),
                     shape = RoundedCornerShape(10.dp),

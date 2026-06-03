@@ -11,4 +11,5 @@
     <string name="notificacion_mensaje">You have a new assigned order</string>
     <string name="dashboard_title">Tobon Transport</string>
     <string name="probar_notificacion">Test Notification</string>
+    <string name="Documento">Documents</string>
 </resources>
